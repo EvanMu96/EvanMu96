@@ -10,7 +10,7 @@ In a game company in Shanghai. For building low latency game server and scalable
 Finishing any projects that I started. Most of my repos are just experimental. Maybe I will delete them in the future and use a personal GitLab server.
 ### Programming Languages
 C++ (work)  
-Node.js (work)
+Node.js (work)  
 Python (leisure)
 ### My Blog
 https://blog.senevan.com
