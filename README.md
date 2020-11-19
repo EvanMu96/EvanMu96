@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**EvanMu96/EvanMu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## EvanMu96
+Another frequently used ID prefix is `Komoriii`.
+### Graduated
+Qingdao University of Science and Technology  
+City University of Hong Kong
+### Working 
+In a game company in Shanghai. For building low latency game server and scalable web application.
+### I am not good at
+Finishing any projects that I started. Most of my repos are just experimental. Maybe I will delete them in the future and use a personal GitLab server.
+## Programming Languages
+C++ (work)  
+Node.js (work)
+Python (leisure)
+### My Blog
+https://blog.senevan.com
