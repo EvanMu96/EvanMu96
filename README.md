@@ -1,9 +1,9 @@
 ## EvanMu96
 Another frequently used ID prefix is `Komoriii`.
-### Graduated
+### Graduated from
 Qingdao University of Science and Technology  
 City University of Hong Kong
-### Working 
+### Working at
 Former Data Science enthusiastic in University. Learned basic Machine Learning/ Deep Learning ideas by MOOC and reading papers. 
 In a game company in Shanghai. For building low latency game server and scalable web application.
 ### I am not good at
