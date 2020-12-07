@@ -1,5 +1,6 @@
 ## EvanMu96
-Another frequently used ID prefix is `Komoriii`.
+Another frequently used ID prefix is `Komoriii`.  
+My current GitHub avatar is Altina Orion from *Legend of Heroes: Hajimari No Kiseki*.
 ### Graduated from
 Qingdao University of Science and Technology  
 City University of Hong Kong
@@ -13,4 +14,4 @@ C++ (work)
 Node.js (work)  
 Python (leisure)
 ### My Blog
-https://blog.senevan.com
+https://blog.senevan.com  
